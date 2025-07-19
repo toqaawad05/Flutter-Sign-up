@@ -42,7 +42,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <h2>Screenshot</h2>
 <p>A preview of the Sign Up page is shown below:</p>
-<img src="2000.png" alt="Sign Up Page Screenshot" width="600"/>
+<img src="Downloads/2000.png" alt="Sign Up Page Screenshot" width="600"/>
 
 <h2>How to Run</h2>
 <ol>
